@@ -1,4 +1,4 @@
-![logo]( )
+![logo](https://github.com/mulusewwube/mulusewwube/blob/main/baner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Mulusew Wube</h1>
 <h3 align="center">excellent skill on web development, Django developer, skill on Canva and Figma</h3>
